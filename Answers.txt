@@ -1,0 +1,23 @@
+1. What's your favourite state management library for react and why?
+Ans:REDUX
+     Predictable state updates make it easier to understand 
+     how the data flow works in the application.
+
+2. Write some react native best practices.
+Ans:Best Native Practices
+     1. Classify The Component First.
+     2.Use Functional Component For Stateless Presentational Component. 
+     3.Use Class Component For Stateful Container Component. 
+     4.Key Of Each Element In List Should Be Unique. 
+     5.Manage Static Image Resources.
+
+3. Which coding style you prefer wet or dry and why?
+Ans:DRY
+    Don't Repeat Yourself (DRY) is a programming principle which states that every logic or piece of knowledge
+    in your code should be represented by only one abstraction.
+
+4. What do you prefer expo or vanilla react native and why?
+Ans:
+    Expo may be the right choice.
+    However, if your app requires a specific functionality and packages with native modules,
+    it's better to go with Vanilla React Native.
